@@ -1,2 +1,2 @@
-# angularjs-lynda
-AngularJS theme for Lynda Course Using Wordpress custom theme
+# WordPress and Angularjs
+Custom Wordpress theme using Angular JS
